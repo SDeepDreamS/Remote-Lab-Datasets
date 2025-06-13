@@ -7,4 +7,4 @@ S. Aeberhard and M. Forina. "Wine," UCI Machine Learning Repository, 1992. [Onli
 
 ### Generated_kmeans_data
 
-Random generated data to support kmeans lab.
+Random generated data to support the kmeans lab.
